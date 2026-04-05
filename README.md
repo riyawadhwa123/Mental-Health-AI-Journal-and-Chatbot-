@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Mental Health Journal App
 
 A full-stack AI-powered mental health journaling application built with Next.js, Node.js, and MongoDB.
@@ -165,3 +166,6 @@ If you encounter any issues:
 - [ ] Export functionality
 - [ ] Social features
 - [ ] Professional therapy integration
+=======
+# Mental-Health-AI-Journal-and-Chatbot-
+>>>>>>> 9e5d186ab6afc2922e21008fb0b4444c568afd53
