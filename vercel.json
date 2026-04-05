@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd mental-health-app && npm run build",
+  "devCommand": "cd mental-health-app && npm run dev",
+  "installCommand": "npm install --legacy-peer-deps && cd mental-health-app && npm install --legacy-peer-deps",
+  "outputDirectory": "mental-health-app/.next"
+}
