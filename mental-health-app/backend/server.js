@@ -14,6 +14,7 @@ const corsOptions = {
   origin: [
     'http://localhost:3000', // local dev
     'http://localhost:3001', // local dev (alternate port)
+    'https://mentalhealthjournalchatbot.vercel.app', // Vercel frontend
     // 'https://mental-health-journal-and-ai-chatbot.onrender.com', // Render frontend
     'https://lovely-strudel-e54e92.netlify.app', // Netlify frontend
   ],
