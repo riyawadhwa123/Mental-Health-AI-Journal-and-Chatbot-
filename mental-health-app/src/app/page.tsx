@@ -27,7 +27,7 @@ export default function Home() {
                 Start Your Journey
               </Button>
             </Link>
-            <Link href="/about">
+            <Link href="/dashboard">
               <Button variant="outline" size="lg" className="w-full sm:w-auto text-lg px-8 py-4 border-2 border-gray-300 hover:border-blue-500 hover:bg-blue-50 transition-all duration-300">
                 Learn More
               </Button>
